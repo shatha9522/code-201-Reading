@@ -6,4 +6,4 @@
 
 | Content | Link |
 | ------------- | ------------- |
-| read01 | https://shatha9522.github.io/code-201-ReadingNote/read01 |
+| class-01 | https://shatha9522.github.io/code-201-ReadingNote/class-01 |
