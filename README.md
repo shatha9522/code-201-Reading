@@ -11,3 +11,5 @@
 | Read03 | https://shatha9522.github.io/code-201-ReadingNote/Read03 |
 | Read04 |https://shatha9522.github.io/code-201-ReadingNote/Read04 |
 | read05 | https://shatha9522.github.io/code-201-ReadingNote/read05 |
+| read06 | https://shatha9522.github.io/code-201-ReadingNote/read06 |
+| read07 | https://shatha9522.github.io/code-201-ReadingNote/read07 |
