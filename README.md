@@ -13,5 +13,7 @@
 | read05 | https://shatha9522.github.io/code-201-ReadingNote/read05 |
 | read06 | https://shatha9522.github.io/code-201-ReadingNote/read06 |
 | read07 | https://shatha9522.github.io/code-201-ReadingNote/read07 |
-| read08 | https://shatha9522.github.io/code-201-ReadingNote/read07 |
-| read09 | https://shatha9522.github.io/code-201-ReadingNote/read07 |
+| read08 | https://shatha9522.github.io/code-201-ReadingNote/read08 |
+| read09 | https://shatha9522.github.io/code-201-ReadingNote/read09 |
+| read10 | https://shatha9522.github.io/code-201-ReadingNote/read10 |
+| read11 | https://shatha9522.github.io/code-201-ReadingNote/read11 |
