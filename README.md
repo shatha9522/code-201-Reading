@@ -19,3 +19,5 @@
 | read11 | https://shatha9522.github.io/code-201-ReadingNote/read11 |
 | read 12 | https://shatha9522.github.io/code-201-ReadingNote/read12 |
 | read 13 |https://shatha9522.github.io/code-201-ReadingNote/read13 |
+| read 14a | https://shatha9522.github.io/code-201-ReadingNote/read14a |
+| read 14b | https://shatha9522.github.io/code-201-ReadingNote/read14b |
